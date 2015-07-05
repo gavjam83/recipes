@@ -1,0 +1,7 @@
+Cereal
+
+Put cereal into a bowl.
+
+Add milk.
+
+Eat.
